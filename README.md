@@ -37,11 +37,22 @@ I’m a Computer Engineering graduate with a passion for continuous learning and
   - [Incident Handler's Journal](https://docs.google.com/document/d/1sd5EtObBggoKUAgSmIuKb52EfuPPa4es/edit)
 - <b>Update a File trough Python Algorithm</b>
   - [Algorithm for file updates in Python](https://docs.google.com/document/d/1iKQxf5yuZo-f9_0U80NaylQyvbcNN-Av/edit#heading=h.2obsd2lu2arz)
+ 
+
+<h2>👨‍💻 Created Dashboards:</h2>
+
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/890809ce-903a-4ead-ab22-383a51d4fad3" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/5db275ea-dc2d-4feb-bd42-6511e87f9552" />
+
+
 
 
 ## 🥉Certification 
 
-💻 <a href="https://drive.google.com/drive/u/0/folders/1ELg6n24ml2Wpl_ebRCGHP_qpMc_r5Y0g">  Certifications</a>  
+💻 <a href="https://drive.google.com/drive/u/0/folders/1rur0h8xGrwC603aAS96EhhXdZeFPUjj2">  Google Data Analyst</a> 
+💻 <a href="https://drive.google.com/drive/u/0/folders/1yKmAojjTruNt4zVNNFJwZbc4BMGwunqH">  Google IT Support</a> 
+💻 <a href="https://drive.google.com/drive/u/0/folders/1iMrWf3JjqLylxRnXwttY7cSDqzFuaZkV">  Google Cybersecurity</a> 
+💻 <a href="https://drive.google.com/drive/u/0/folders/1ttf1Uf7Dut4_APGFSbocsbe0R3pSsQqh">  Omada Certified Network Administarator (Wireless)</a> 
  
  
 ## 🥈 Badge
