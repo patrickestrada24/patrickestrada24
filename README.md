@@ -44,6 +44,7 @@ I’m a Computer Engineering graduate with a passion for continuous learning and
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/890809ce-903a-4ead-ab22-383a51d4fad3" />
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/5db275ea-dc2d-4feb-bd42-6511e87f9552" />
 
+ - [Power BI Dashboards](https://drive.google.com/drive/u/0/folders/1Y9FDHipcwKQ4QOJbCdMjOuya8yCraE_0)
 
 
 
