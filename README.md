@@ -57,9 +57,10 @@ I’m a Computer Engineering graduate with a passion for continuous learning and
  
  
 ## 🥈 Badge
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/1442ef6e-fb0c-4a82-b87b-e19a7fa034d0" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/a2881259-747d-400f-b352-d00dc639c4a2" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/31510b8f-c0fb-493f-9947-8cd5b7064e2a" />
+
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/d2f84728-1be3-4c8f-b7f3-72890233b514" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/f3013a44-4c24-4374-b318-53c2ac79bdf7" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/44d53d8b-14f4-4743-8e15-328748005fec" />
 
 
 
@@ -88,12 +89,13 @@ I’m a Computer Engineering graduate with a passion for continuous learning and
 
 
 <div>
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4bbd305f-a5ee-4b60-900a-a2c496cbe208" />
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/024d7ef9-54b8-49a9-97b1-47d46604e509" />
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/10ac2f9e-39ef-4575-8730-4fad5124b0a0" />
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/545507f8-5e37-4cef-ac40-89b7fe175835" />
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d0919176-7a9f-47c2-858e-912a8ed484bc" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/103eacaf-6518-4344-96e2-85bba87047f9" />
+ <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9abe879f-2daf-4151-af05-791fd7e3f788" />
+ <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/49c77915-255e-4b90-8b8c-0c3a54b1f559" />
+ <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/db86b84c-9952-4fd4-89c7-6485f360d17b" />
+ <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9c0efd04-3698-4e5a-87ba-a6daf1566147" />
+ <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/cd489344-d3df-4d72-8619-4113f1c801ea" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  
 
   
