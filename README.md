@@ -15,7 +15,7 @@ I’m a Computer Engineering graduate with a passion for continuous learning and
 
  - <b>Capstone Project </b>
    
-   - [How Can Cyclistic Convert Causual Riders Into Members](https://drive.google.com/drive/u/0/folders/1m6-xb72JwaEoUCuAfNrB1MKY0rCIMkOO)
+   - [How Can Cyclistic Convert Casual Riders Into Members](https://drive.google.com/drive/u/0/folders/1m6-xb72JwaEoUCuAfNrB1MKY0rCIMkOO)
    - [Journal Entry](https://drive.google.com/drive/u/0/folders/10_EubE9QhG_BcopM9r8vUDARZyxvMLgv)
 
 
