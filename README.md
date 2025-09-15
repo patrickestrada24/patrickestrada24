@@ -47,6 +47,15 @@ I’m a Computer Engineering graduate with a passion for continuous learning and
  - [Power BI Dashboards](https://drive.google.com/drive/u/0/folders/1Y9FDHipcwKQ4QOJbCdMjOuya8yCraE_0)
 
 
+<h2>👨‍💻 AutoCAD drawings:</h2>
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/aa7ea83e-f585-4cbf-8d08-dc55386ee33e" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ef0f4673-c8ae-4da1-8171-964de677a0b7" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/aea8b2f5-56e8-416e-9cf0-61c76c4bc2f7" />
+
+
+
+
+
 
 ## 🥉Certification 
 
