@@ -37,7 +37,17 @@ I’m a Computer Engineering graduate with a passion for continuous learning and
   - [Incident Handler's Journal](https://docs.google.com/document/d/1sd5EtObBggoKUAgSmIuKb52EfuPPa4es/edit)
 - <b>Update a File trough Python Algorithm</b>
   - [Algorithm for file updates in Python](https://docs.google.com/document/d/1iKQxf5yuZo-f9_0U80NaylQyvbcNN-Av/edit#heading=h.2obsd2lu2arz)
- 
+
+<h2>👨‍💻 Google IT Support</h2>
+
+- <b>Activities on Windows and Linux Operating Systems</b>
+  - [Creating, Modifying and Removing Files and Folders in Linux](https://drive.google.com/drive/u/0/folders/1j0wWFb52vem9Datyj6cDXOGwDQb0Mhjf)
+  - [Creating, Modifying and Removing File permissions and Folders in Windows and Linux](https://drive.google.com/drive/u/0/folders/1rS4DwOlQhpI8Wt3GAwLpQ5hGikxnBUca)
+  - [Maintain Efficient Process Utilization on Linux and Windows](https://drive.google.com/drive/u/0/folders/1U-yC5LEGPYtxnH0Cn29iFGpsW31Wx1Fn)
+  - [Partitioning and Formatting a Disk Drive in Linux and Windows](https://drive.google.com/drive/u/0/folders/1CyXhhrmJygMZKTB9zR_InN6UD9RsNytI)
+  - [Software Packaging and File Archiving on Linux and Windows](https://drive.google.com/drive/u/0/folders/1CCKszMuSrQYhuEGgiG_943WwHUCnbU8f)
+  - [Using Logs to Help You Track Down an Issue in Linux and Windows](https://drive.google.com/drive/u/0/folders/1kE9gNHR-wi_aDK3676OPn6KiukQyNVku)
+
 
 <h2>👨‍💻 Created Dashboards:</h2>
 
