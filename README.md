@@ -1,4 +1,4 @@
-<h1>Hi, I'm Patrick! <br/><a >Computer Engineer </a>| <a>Data Analyst</a> | <a >Technical Support</a></h1>
+<h1>Hi, I'm Patrick! <br/><a >Computer Engineering Graduate</a></h1>
 
   
 
