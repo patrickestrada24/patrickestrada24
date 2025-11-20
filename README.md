@@ -6,7 +6,7 @@
 ### :man_technologist: About Me:
 I’m a Computer Engineer with a passion for continuous learning and problem-solving. I enjoy turning data into actionable insights (like creating dashboards in Excel, Power BI and Tableau), providing technical support, and troubleshooting devices. I’m also interested in design and layout using AutoCAD. Always curious and motivated, I love exploring new technologies and expanding my skills.
 ## Resume
-📝 <a href="https://drive.google.com/drive/u/0/folders/1kGWis5jBD3M7sV-y5V6ccJM9FhJ9nEVI">
+📝 <a href="https://drive.google.com/drive/folders/1kGWis5jBD3M7sV-y5V6ccJM9FhJ9nEVI">
  <b>Click Here</b> </a>
 
 
