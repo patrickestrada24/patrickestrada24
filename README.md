@@ -1,10 +1,10 @@
-<h1>Hi, I'm Patrick! <br/><a >a Computer Engineer</a></h1>
+<h1>Hi, I'm Patrick! <br/><a >a Computer Engineer | Documennt Controller</a></h1>
 
   
 
 
 ### :man_technologist: About Me:
-Computer Engineer with 2 years of hands-on experience in IT support, network setup, hardware repair,  and home automation systems. Skilled in troubleshooting, system maintenance, and network management, aiming to contribute practical expertise to optimize IT operations and ensure seamless business performance.
+Detail-oriented Document Controller and IT Draftsman cum Technician with 4 years of experience managing project documents and supporting technical operations. Skilled at keeping records accurate, up to date, and compliant while streamlining workflows and improving team efficiency. Experienced in coordinating revisions, maintaining audit-ready documentation, and leveraging digital tools to ensure smooth project execution. Passionate about delivering value, meeting deadlines, and continuously enhancing skills to support successful projects.
 ## Resume
 📝 <a href="https://drive.google.com/drive/folders/1kGWis5jBD3M7sV-y5V6ccJM9FhJ9nEVI">
  <b>Click Here</b> </a>
@@ -94,11 +94,17 @@ Computer Engineer with 2 years of hands-on experience in IT support, network set
 |-----------------------------------------------|----------------------------|
 | Autocad          | Communication|
 | Data Cleaning (Excel) | Collaboration|
+|Aconex |Detail-oriented |
+|Revision Control | Adaptability|
+|Archiving & Filing | Quick learner|
+|Document Logging & Tracking | Time Management |
+
 | Data Visualization (Power BI, Tableau         | Analysis|
 | Technical Support and Troubleshooting    | Organization|
 | Network Configuration and Administration           | Problem Solving|
-| Computer Assembly and Maintenance | Time Management|
-| Programming Languages (SQL, Python, R) | Adaptability
+| Computer Assembly and Maintenance | 
+| Programming Languages (SQL, Python, R) |
+
 
  </div>
 
