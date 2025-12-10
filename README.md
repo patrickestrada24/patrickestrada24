@@ -98,7 +98,6 @@ Detail-oriented Document Controller and IT Draftsman cum Technician with 4 years
 |Revision Control | Adaptability|
 |Archiving & Filing | Quick learner|
 |Document Logging & Tracking | Time Management |
-
 | Data Visualization (Power BI, Tableau         | Analysis|
 | Technical Support and Troubleshooting    | Organization|
 | Network Configuration and Administration           | Problem Solving|
