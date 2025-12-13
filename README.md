@@ -1,10 +1,10 @@
-<h1>Hi, I'm Patrick! <br/><a >a Computer Engineer | Documennt Controller</a></h1>
+<h1>Hi, I'm Patrick! <br/><a > a Computer Engineer | IT Support </a></h1>
 
   
 
 
 ### :man_technologist: About Me:
-Detail-oriented Document Controller and IT Draftsman cum Technician with 4 years of experience managing project documents and supporting technical operations. Skilled at keeping records accurate, up to date, and compliant while streamlining workflows and improving team efficiency. Experienced in coordinating revisions, maintaining audit-ready documentation, and leveraging digital tools to ensure smooth project execution. Passionate about delivering value, meeting deadlines, and continuously enhancing skills to support successful projects.
+Computer Engineer with 2 years of hands-on experience in IT support, including network setup, hardware repair, and home automation systems. Skilled in troubleshooting, system maintenance, and network management, with a strong focus on delivering reliable, efficient solutions. Committed to leveraging practical expertise to optimize IT operations and support seamless business performance.
 ## Resume
 📝 <a href="https://drive.google.com/drive/folders/1kGWis5jBD3M7sV-y5V6ccJM9FhJ9nEVI">
  <b>Click Here</b> </a>
