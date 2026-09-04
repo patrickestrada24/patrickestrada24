@@ -9,10 +9,22 @@ Computer Engineer with 2 years of hands-on experience in IT support, including n
 📝 <a href="https://drive.google.com/drive/folders/1kGWis5jBD3M7sV-y5V6ccJM9FhJ9nEVI">
  <b>Click Here</b> </a>
 
-<h2>👨‍💻 Active Directory:</h2>
-  - <b>Labs</b>
+ <h2>👨‍💻 CCNA Labs:</h2>
+ 
+  - <b>Switching, Routing, Vlan, STP, Etherchannel </b>
+      - [All Here](https://drive.google.com/drive/u/0/folders/1GdQPVXvH7t0bJpjFfNhDl5p9GteI9wBt)
+ 
+
+   
+
+<h2>👨‍💻 Active Directory Home Labs:</h2>
+
+- <b>Lab 1</b>
+   - [Installing Active Directory & Creating Groups, Users and Ous](https://drive.google.com/drive/u/0/folders/1pBI0tAd-xHVd-aEx74iCzTuf-IkRoYiC)
+- <b>Lab 2</b>
+   - [Creating & Setting up Group Policy Objects (GPO)](https://drive.google.com/drive/u/0/folders/1pBI0tAd-xHVd-aEx74iCzTuf-IkRoYiC)
     
-    -[Installing Windows Server and Managing GPO](https://drive.google.com/drive/u/0/folders/1f-KzGG4wqUINpRiSWVzEhM6vltDc9Een)
+    
 
   
 <h2>👨‍💻 Google Data Analytics Capstone Project:</h2>
