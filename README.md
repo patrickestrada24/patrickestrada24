@@ -9,12 +9,11 @@ Computer Engineer with 2 years of hands-on experience in IT support, including n
 📝 <a href="https://drive.google.com/drive/folders/1kGWis5jBD3M7sV-y5V6ccJM9FhJ9nEVI">
  <b>Click Here</b> </a>
 
-<h2>👨‍💻 Active Directory Labs:</h2>
-  - [Active Directory] (https://drive.google.com/drive/u/0/folders/1f-KzGG4wqUINpRiSWVzEhM6vltDc9Een)
-  - [Active Directory] (https://drive.google.com/drive/u/0/folders/1f-KzGG4wqUINpRiSWVzEhM6vltDc9Een)
+<h2>👨‍💻 Active Directory:</h2>
+- <b>Labs</b>
+    -[Installing Windows Server and Managing GPO](https://drive.google.com/drive/u/0/folders/1f-KzGG4wqUINpRiSWVzEhM6vltDc9Een)
 
-
-
+  
 <h2>👨‍💻 Google Data Analytics Capstone Project:</h2>
 
  - <b>Capstone Project </b>
