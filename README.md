@@ -4,7 +4,7 @@
 
 
 ### :man_technologist: About Me:
-Computer Engineer with 2 years of hands-on experience in IT support, including network setup, hardware repair, and home automation systems. Skilled in troubleshooting, system maintenance, and network management, with a strong focus on delivering reliable, efficient solutions. Committed to leveraging practical expertise to optimize IT operations and support seamless business performance.
+Computer Engineer with 2+ years of hands-on experience in IT support, including network setup, hardware repair, and home automation systems. Skilled in troubleshooting, system maintenance, and network management, with a strong focus on delivering reliable, efficient solutions. Committed to leveraging practical expertise to optimize IT operations and support seamless business performance.
 ## Resume
 📝 <a href="https://drive.google.com/drive/folders/1kGWis5jBD3M7sV-y5V6ccJM9FhJ9nEVI">
  <b>Click Here</b> </a>
