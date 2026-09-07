@@ -108,17 +108,17 @@ Computer Engineer with 2+ years of hands-on experience in IT support, including 
    
    | Technical Skills                                       | Soft Skills         |
 |-----------------------------------------------|----------------------------|
-| Autocad          | Communication|
+| Data Entry & Database Management          | Communication|
 | Data Cleaning (Excel) | Collaboration|
-|Aconex |Detail-oriented |
-|Revision Control | Adaptability|
-|Archiving & Filing | Quick learner|
-|Document Logging & Tracking | Time Management |
+|IPv4 Addressing & Subnetting |Detail-oriented |
+|Routing & Switching | Adaptability|
+|VLAN Configuration | Quick learner|
+|IT Support & Helpdesk | Time Management |
 | Data Visualization (Power BI, Tableau         | Analysis|
-| Technical Support and Troubleshooting    | Organization|
-| Network Configuration and Administration           | Problem Solving|
-| Computer Assembly and Maintenance | 
-| Programming Languages (SQL, Python, R) |
+| Active Directory    | Organization|
+| User Access Management           | Problem Solving|
+| Computer Assembly and Maintenance | Customer Service |
+| Programming Languages (SQL, Python, R) |Documentation |
 
 
  </div>
