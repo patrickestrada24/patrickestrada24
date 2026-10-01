@@ -81,7 +81,7 @@ Computer Engineer with 2+ years of practical experience in IT support, hardware 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/2d19a3bf-a535-4209-90d5-99fa1140f93a" />
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a42b2379-6755-4d60-973f-bb9a5263fb84" />
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b9144602-a1d0-4c61-bdb7-9a87ade66980" />
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/b7d91554-7408-46a9-9400-5e6ca037eda7" />
+
 
 <h2>👨‍💻 AutoCAD PDF/DWG FILES:</h2>
 
