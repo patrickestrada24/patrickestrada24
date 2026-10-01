@@ -77,7 +77,26 @@ Computer Engineer with 2+ years of practical experience in IT support, hardware 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/aa7ea83e-f585-4cbf-8d08-dc55386ee33e" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ef0f4673-c8ae-4da1-8171-964de677a0b7" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/aea8b2f5-56e8-416e-9cf0-61c76c4bc2f7" />
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/4863a7cd-733c-4e38-a8eb-e591b121e7d6" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/4863a7cd-733c-4e38-a8eb-e591b121e7d6" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/2d19a3bf-a535-4209-90d5-99fa1140f93a" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a42b2379-6755-4d60-973f-bb9a5263fb84" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b9144602-a1d0-4c61-bdb7-9a87ade66980" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/b7d91554-7408-46a9-9400-5e6ca037eda7" />
+
+<h2>👨‍💻 AutoCAD PDF/DWG FILES:</h2>
+
+- <b>Pharmacy Network Design</b>
+   - [ELV Network Design](https://drive.google.com/drive/u/0/folders/1fflnsPHn5S8RsSIc9hBIDQUH78idim7_)
+- <b>AP</b>
+   - [Access Points Layout](https://drive.google.com/drive/u/0/folders/1gNX0t2aZHvEWQXTCiAMlAL6NHOLKABJd)
+- <b>CCTV</b>
+   - [CCTV Layout](https://drive.google.com/drive/u/0/folders/1UOULw_UdR05Le7UglMeS6Xeebki_f9mV)
+- <b>Floor Plans</b>
+   - [Pharmacy & simple FP](https://drive.google.com/drive/u/0/folders/1W2njb3X121qzyIxcBC0jTegBeHGVNpQZ)
+   
+
+
+
 
 
 
